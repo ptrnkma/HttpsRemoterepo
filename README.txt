@@ -6,5 +6,9 @@ I added this line
 
 good! It works!
 
+<<<<<<< HEAD
 
 i make some changes <^>
+
+i also make some changes from remote repository
+
